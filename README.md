@@ -9,6 +9,9 @@ You can even change the icon of excutable by creating the shortcut of it as foll
 3. Then click on change icon tab and select an icon.
 4. Click on 'Apply' tab.
 5. Move this shortcut icon to the desktop and enjoy using it....!
+
+
+
 Note:-  
 * Don't click 'close' button instead use '12' option to 'Exit'.
 * After closing the app 'Reminder.txt' file is create where all the reminders are stored.
